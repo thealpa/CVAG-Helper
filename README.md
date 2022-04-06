@@ -1,6 +1,8 @@
 # CVAG-Helper
 Helper script that matches public transport coordinates from VMS open data to CVAG's ITCS API mandator numbers.
 
+**This script is no longer needed since VMS provides stop ids and coordinates using their EFA API.**
+
 See also my corresponding [iOS app](https://github.com/thealpa/cvag).
 
 ## Usage
